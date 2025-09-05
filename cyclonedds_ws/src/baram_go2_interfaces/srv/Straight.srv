@@ -1,0 +1,8 @@
+float64 velocity
+float64 angle
+float64 end_time
+float64 distance
+int32 mode
+int32 run_mode
+---
+bool success
